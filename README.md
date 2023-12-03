@@ -8,7 +8,7 @@ Large Language Model(LLM) for Medical Query Resolution
   + Lakshay Arora
 
 ## Description
-Promptologist is the Course Project for our [11-785 Introduction to Deep Learning] Course for Fall 2023(https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google)
+Promptologist is the Course Project for our [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google) Course for Fall 2023
 
 ## Goals
 The goal of this project was to do do model distillation on a Large Language Model specifically in the field of medicine.
