@@ -24,7 +24,7 @@ We tried a few models and picked the N-Gram model with Multi-Head Attention as o
 
 ## Hardware
 
-We trained the model on an NVIDIA Tesla T4
+We trained the model on an NVIDIA Tesla T4 on GCP
 
 ## Dataset
 
@@ -33,7 +33,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 ## Data Preprocessing
 
 + Convert Chinese data into English data using Google Translate.
-+ Convert json Patient-Doctor conversations to line seperated texts.
++ Convert JSON Patient-Doctor conversations to line seperated texts.
 
 ## Evaluation Metrics
 
