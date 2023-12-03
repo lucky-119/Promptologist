@@ -39,3 +39,10 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 
 + BERT Score
 + Cross-Entropy Loss
+
+## Deliverables
+
++ [Midterm Report](https://www.overleaf.com/project/6555308f88f666a0c07a3fff)
++ [Final Report]()
+
+## Samples
