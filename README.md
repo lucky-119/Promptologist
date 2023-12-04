@@ -1,14 +1,26 @@
 # Promptologist
 Large Language Model(LLM) for Medical Query Resolution
 
-## 11-785 Intro to Deep Learning Course Project
-  + Aditi Patil
-  + Aakriti Kinra
-  + Aryan Singhal
-  + Lakshay Arora
+## 11-785 Introduction to Deep Learning Course Project
+  + Aditi Patil (apatil2)
+  + Aakriti Kinra (akinra)
+  + Aryan Singhal (aryans)
+  + Lakshay Arora (lakshaya)
+
+```
+├── folder1
+│   ├── sub1
+│   │   ├── subsub1
+│   ├── sub2
+├── folder2
+│   ├── sub1
+│   │   ├── subsub1
+├── folder3
+├── folder4
+```
 
 ## Description
-Promptologist is the Course Project for our [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google) Course for Fall 2023
+Promptologist is the Course Project for our [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google) Course for Fall 2023.
 
 ## Goals
 The goal of this project was to do do model distillation on a Large Language Model specifically in the field of medicine.
@@ -24,7 +36,7 @@ We tried a few models and picked the N-Gram model with Multi-Head Attention as o
 
 ## Hardware
 
-We trained the model on an NVIDIA Tesla T4 on GCP
+We trained the model on an NVIDIA Tesla T4 using Google Cloud Platform.
 
 ## Dataset
 
@@ -32,7 +44,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 
 ## Data Preprocessing
 
-+ Convert Chinese data into English data using Google Translate.
++ Convert data from Chinese to English data using Google Translate.
 + Convert JSON Patient-Doctor conversations to line seperated texts.
 
 ## Evaluation Metrics
@@ -43,6 +55,15 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 ## Deliverables
 
 + [Midterm Report](https://www.overleaf.com/project/6555308f88f666a0c07a3fff)
-+ [Final Report]()
++ [Final Report](https://www.overleaf.com/project/656cfe3aa78bbb74938b69a5)
++ [Project Video]()
 
 ## Samples
+Input Prompt:
+```
+input prompt
+```
+Output:
+```
+output
+```
