@@ -8,15 +8,21 @@ Large Language Model(LLM) for Medical Query Resolution
   + Lakshay Arora (lakshaya)
 
 ```
-├── folder1
-│   ├── sub1
-│   │   ├── subsub1
-│   ├── sub2
-├── folder2
-│   ├── sub1
-│   │   ├── subsub1
-├── folder3
-├── folder4
+├── checkpoints
+│   ├── Best_Baseline_Checkpoint
+│   ├── Best_Mode_Checkpoint
+│   ├── Running_Mode_Checkpoint
+├── code
+│   ├── model
+│   │   ├── Promptologist.ipynb
+│   ├── translate.ipynb
+├── data
+│   ├── test.json
+│   ├── testFinal.txt
+│   ├── valid.txt
+│   ├── trainFinal.txt(not added, file too big)
+├── docs
+│   ├── Promptologist_IDL_MidTerm_Report.pdf
 ```
 
 ## Description
