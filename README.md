@@ -60,7 +60,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 
 ## Deliverables
 
-+ [Midterm Report]([https://www.overleaf.com/project/6555308f88f666a0c07a3fff](https://github.com/lucky-119/Promptologist/blob/main/docs/Promptologist_IDL_MidTerm_Report.pdf))
++ [Midterm Report](https://github.com/lucky-119/Promptologist/blob/main/docs/Promptologist_IDL_MidTerm_Report.pdf)
 + [Final Report](https://www.overleaf.com/project/656cfe3aa78bbb74938b69a5)
 + [Project Video]()
 
