@@ -46,7 +46,7 @@ We trained the model on an NVIDIA Tesla T4 using Google Cloud Platform.
 
 ## Dataset
 
-Our data includes English Patient-Doctor conversations and Chinese Patient-Doctor conversations converted to English.
+Our data includes English Patient-Doctor conversations and Chinese Patient-Doctor conversations converted to English. https://huggingface.co/datasets/shibing624/medical
 
 ## Data Preprocessing
 
