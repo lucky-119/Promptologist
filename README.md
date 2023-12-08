@@ -64,7 +64,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 
 + [Midterm Report](https://github.com/lucky-119/Promptologist/blob/main/docs/Promptologist_IDL_MidTerm_Report.pdf)
 + [Final Report](https://www.overleaf.com/project/656cfe3aa78bbb74938b69a5)
-+ [Project Video]()
++ [Project Video](https://www.youtube.com/watch?v=7ZeoCHyi4zY)
 
 ## Samples
 Input Prompt:
