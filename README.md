@@ -81,4 +81,4 @@ output
 + The valid and test data can be found in the data folder
 + For the train data, refer to the Medical GPT training data and use translate.ipynb to translate and get the training data
 + Upload the data files to the coding platform you are using
-+ Run the cells sequentially
++ Run the cells sequentially from the Promptologist.ipynb file
