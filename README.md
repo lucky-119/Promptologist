@@ -38,7 +38,7 @@ Our problem is specifically restrained to the field of Medical Consultation.
 
 ## Model Architecture
 
-We tried a few models and picked the N-Gram model with Multi-Head Attention with Convolutional Layers as our best architecture
+We tried a various model architectures including Ngrams, Multi head attention, LSTMs and CNNs and found the N-Gram model with Multi-Head Attention with Convolutional Layers to give the best results
 
 ## Hardware
 
