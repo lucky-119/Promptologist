@@ -28,14 +28,17 @@ Large Language Model(LLM) for Medical Query Resolution
 ```
 
 ## Description
-Promptologist is the Course Project for our [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google) Course for Fall 2023.
+Promptologist is the Course Project for our [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html#:~:text=the%20calendar%20first.-,OH%20Calendar,-%3A%20The%20Google) Course for Fall 2023. It is a specialized Generative Pre-trained Transformer (GPT) tailored exclusively for the medical domain. 
 
 ## Goals
-The goal of this project was to do do model distillation on a Large Language Model specifically in the field of medicine.
+
+- We aim to build a robust large language model trained on medical dialogue that resolves patients queries.
+- We aim to work on making it compact to save costs and compute and increase the accessibility to our users.
+- The goal is to perform model distillation on a Large Language Model specifically in the field of medicine. 
 
 ## Constraints
 
-Our problem is specifically restrained to the field of Medical Consultation.
+Our problem is specifically restrained to the field of Medical Consultation and Patient query resolution.
 
 ## Model Architecture
 
@@ -78,7 +81,8 @@ Such as a CAss is out a rall laparocephargea. If patients with implante bone and
 ```
 ## How to run the code
 
-+ The valid and test data can be found in the data folder
-+ For the train data, refer to the Medical GPT training data and use translate.ipynb to translate and get the training data
-+ Upload the data files to the coding platform you are using
-+ Run the cells sequentially from the Promptologist.ipynb file
++ Install the requirements.
++ Download the validation and test data from the data folder.
++ For the train data, refer to the Medical GPT training data and use ```translate.ipynb``` to translate and get the training data
++ Upload the data files to your IDE.
++ Run the cells sequentially from the ```Promptologist.ipynb``` file.
