@@ -59,7 +59,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 + BERT Score
 
 ## Loss Function
-+ Cross-Entropy Loss
++ Cross-Entropy Loss function
 
 ## Deliverables
 
