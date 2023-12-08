@@ -7,7 +7,7 @@ Large Language Model(LLM) for Medical Query Resolution
   + Aakriti Kinra (akinra)
   + Aditi Patil (apatil2)
 
-
+## Code Organization
 ```
 ├── checkpoints
 │   ├── Best_Baseline_Checkpoint
