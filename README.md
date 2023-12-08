@@ -24,6 +24,7 @@ Large Language Model(LLM) for Medical Query Resolution
 │   ├── trainFinal.txt(not added, file too big)
 ├── docs
 │   ├── Promptologist_IDL_MidTerm_Report.pdf
+│   ├── Promptologist_Final_Report.pdf
 ```
 
 ## Description
@@ -63,7 +64,7 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 ## Deliverables
 
 + [Midterm Report](https://github.com/lucky-119/Promptologist/blob/main/docs/Promptologist_IDL_MidTerm_Report.pdf)
-+ [Final Report](https://www.overleaf.com/project/656cfe3aa78bbb74938b69a5)
++ [Final Report](https://github.com/lucky-119/Promptologist/blob/main/docs/Promptologist_Final_Report.pdf)
 + [Project Video](https://www.youtube.com/watch?v=7ZeoCHyi4zY)
 
 ## Samples
