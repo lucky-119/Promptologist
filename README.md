@@ -70,11 +70,11 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 ## Samples
 Input Prompt:
 ```
-input prompt
+So last week I started itching real bad, especially in my legs. I started noticing some bruising (and there were a lot of bruises, BIG bruises) where I scratched. I didnt think I was scratching so hard and Ive never bruised like this before whenever Ive had skin problems where I needed to scratch. Now, I found a lump in my upper thigh and its the size of a quarter. I can only notice it when I touch it and it feels like Im pressing against another bruise. However nothing has appeared on the skin which is leading me to believe its beneath the skin. Any ideas on what it could be?
 ```
 Output:
 ```
-output
+Such as a CAss is out a rall laparocephargea. If patients with implante bone and under such as hepatitis. After thyroidbilirocytes spatem to phroot cause there is poin it is repaled to the Cardiagnosis is gimb-imple confect. Baral produce. Hope you are reason does notaly an anepsy postic. My suspendes on climine, and answed fluids, psychological cysts. Try kidney posi tek, burried infection infarction, least symptoms, and the environment of sepair dause level in the bed. You can go to a sore worried to the hands but less and consider fibroid sites, qi CTA?
 ```
 ## How to run the code
 
