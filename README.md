@@ -53,9 +53,11 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 + Convert data from Chinese to English data using Google Translate.
 + Convert JSON Patient-Doctor conversations to line seperated texts.
 
-## Evaluation Metrics
+## Evaluation Metric
 
 + BERT Score
+
+## Loss Function
 + Cross-Entropy Loss
 
 ## Deliverables
