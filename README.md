@@ -42,11 +42,11 @@ Our problem is specifically restrained to the field of Medical Consultation and 
 
 ## Model Architecture
 
-We tried a various model architectures including Ngrams, Multi head attention, LSTMs and CNNs and found the N-Gram model with Multi-Head Attention with Convolutional Layers to give the best results
+We tried a various model architectures including Ngrams, Multi head attention, LSTMs and CNNs and found the N-Gram model with Multi-Head Attention with Convolutional Layers gave the best results
 
 ## Hardware
 
-We trained the model on an NVIDIA Tesla T4 using Google Cloud Platform.
+We trained the model on an NVIDIA Tesla T4 using Google Cloud Platform on a Google Colab Notebook
 
 ## Dataset
 
@@ -58,7 +58,6 @@ Our data includes English Patient-Doctor conversations and Chinese Patient-Docto
 + Convert JSON Patient-Doctor conversations to line seperated texts.
 
 ## Evaluation Metric
-
 + BERT Score
 
 ## Loss Function
